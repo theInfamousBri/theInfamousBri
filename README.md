@@ -37,12 +37,12 @@ retries, and dead-letter processing.
 **Testing:** JUnit 5 · JaCoCo · PIT · Playwright · Karate  
 **DevOps & Tools:** GitHub Actions · CI/CD · Maven · Git · OpenAPI · Splunk
 
-## 🌱 Currently Exploring
+## 🌱 Currently Building & Exploring
 
 - Distributed transaction processing with Kafka
-- Containerized deployments with Docker and Kubernetes
-- AWS infrastructure and cloud-native backend patterns
 - Observability with OpenTelemetry
+- Container orchestration with Kubernetes
+- AWS infrastructure and cloud-native deployment patterns
 
 ## 📫 Connect
 
