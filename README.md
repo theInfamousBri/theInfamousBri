@@ -15,7 +15,7 @@ performance optimization, and backend architecture.
 A full-stack application for managing the job-search lifecycle, including applications,
 companies, contacts, activity history, and supporting application data.
 
-**Java · Spring Boot · PostgreSQL · Thymeleaf · Maven**
+**Java · Spring Boot · SQLite · Thymeleaf · Docker · GitHub Actions · Maven**
 
 [🌐 Live Demo](https://job-search-command-center-demo.onrender.com/) ·
 [💻 Source Code](YOUR_REPOSITORY_URL)
