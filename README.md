@@ -5,8 +5,7 @@
 I'm a backend software engineer with 5+ years of experience building Java/Spring services,
 financial workflows, resilient APIs, and production systems.
 
-I'm especially interested in distributed systems, transaction processing, reliability,
-performance optimization, and backend architecture.
+I focus on backend architecture, distributed workflows, transaction processing, reliability, and performance engineering.
 
 ## 🚀 Featured Projects
 
