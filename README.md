@@ -20,15 +20,15 @@ companies, contacts, activity history, and supporting application data.
 [🌐 Live Demo](https://job-search-command-center-demo.onrender.com/) ·
 [💻 Source Code](YOUR_REPOSITORY_URL)
 
-### Ledgerflow
+### LedgerFlow
 
-A distributed transaction-processing platform focused on production-grade backend patterns:
-asynchronous processing, idempotency, reconciliation, resilient downstream communication,
-observability, and cloud deployment.
+A production-minded distributed transaction-processing platform exploring reliable
+asynchronous workflows, idempotency, transactional state, downstream failure handling,
+retries, and dead-letter processing.
 
-**Java 21 · Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes · AWS**
+**Java 21 · Spring Boot · Kafka · PostgreSQL · Docker · Testcontainers**
 
-🚧 Currently in development
+🚧 Currently in development — observability, reconciliation, Kubernetes, and AWS deployment planned
 
 ## 🛠️ Technologies
 
